@@ -1,0 +1,9 @@
+{
+  "name": "谷屋 · 我的收藏档案",
+  "short_name": "谷屋",
+  "description": "为收藏物品拍照、分类、编号并记录价格",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1e8",
+  "theme_color": "#315f52"
+}
